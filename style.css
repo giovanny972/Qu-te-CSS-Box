@@ -1,0 +1,79 @@
+body{
+    background:white;
+}
+header{
+    height: 300px;
+    width: 100%;
+    background: slategrey;    
+}
+nav{
+    position: fixed;
+    width: 100%;
+}
+
+#Repertoire{
+    width: 100%;
+    background: cadetblue;
+    padding: 0px;
+    margin: 0px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    margin: 0px;
+}
+.carousel{
+    background: gray;
+}
+.Titre{
+    text-align: center;
+}
+.Block-Container{
+    display: flex;
+    justify-content: center;    
+    height: 300px;
+    width: 100%;
+    background: antiquewhite;
+    position: relative;
+}
+#Box1{
+    background: gray;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    margin: left;
+}
+#Box2{
+    background: gray;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+#Box3{
+    background: gray;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+
+#Elements{
+    background: white;
+    float: middle;
+    padding: 50px;
+    height: 300px;
+    width: 90% 
+}
+#ElementsMail{
+  width: 100%;
+}
+#ElementsText1{
+    width: 100%;
+}
+#ElementsText2{
+    width: 100%;
+}
+#ElementsText3{
+    width: 100%;
+    height: 200px;
+}
